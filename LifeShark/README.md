@@ -28,6 +28,14 @@ Este projeto de **LifeShark** faz parte do projeto para disciplina de **Programa
 5. **Utilize o navegador para rodar em pc, digite na barra de endeeço:**
 ```localhost:8081```
 
+## Configurar o ambiente e Pré-requisitos
+
+**Necessita ter instalado:**
+```Node.js: https://nodejs.org```
+
+**Expo CLI (para facilitar o desenvolvimento React Native):**
+```npm install -g expo-cli```
+
 ## 📂 Estrutura do Projeto
 
 ```
@@ -52,7 +60,6 @@ Criar estrutura de pastas e arquivos.
 ├──📄package.json
 └──📄tsconfig.json
 ```
-
 
 ## 📝 Licença
 
