@@ -1,4 +1,4 @@
-# LifeShark 🎁
+# LifeShark :shark:
 
 Este projeto de **LifeShark** faz parte do projeto para disciplina de **Programação Para Dispositivos Móveis em Android** desenvolvida com **React Native e TypeScript**. Os usuários podem encontrar nesse App informações gerais sobre tubarões em praias de Recife/PE, bem como dados turísticos e educativos sobre cada praia.
 
@@ -27,6 +27,14 @@ Este projeto de **LifeShark** faz parte do projeto para disciplina de **Programa
 ```escanei o QR-code gerado```
 5. **Utilize o navegador para rodar em pc, digite na barra de endeeço:**
 ```localhost:8081```
+
+## Configurar o ambiente e Pré-requisitos
+
+**Necessita ter instalado:**
+```Node.js: https://nodejs.org```
+
+**Expo CLI (para facilitar o desenvolvimento React Native):**
+```npm install -g expo-cli```
 
 ## 📂 Estrutura do Projeto
 
